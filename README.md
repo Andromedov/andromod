@@ -1,2 +1,4 @@
-# andromod
-Andromod - mod for Minecraft, version - 1.12.2
+# AndroMod
+AndroMod - mod for Minecraft, version - 1.12.2;
+Creator - Andromedov
+For YT - SdobnyBurger
